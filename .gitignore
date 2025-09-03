@@ -1,0 +1,26 @@
+# Exclude Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Exclude assignment files specific folders
+
+assignment_1/Hindi-MNIST/
+
+assignment_2/GreyscaleImages/
+assignment_2/models/
+assignment_2/RealHumanHairColor/
+
+assignment_3/Hindi-MNIST/
+
+# Exclude Python cache
+__pycache__/
+
+# Exclude common OS files
+.DS_Store
+Thumbs.db
+
+# Exclude virtual environment (if any)
+venv/
+env/
+
+# Exclude log files
+*.log
